@@ -10,5 +10,6 @@
 **Windows**  
 **Bandzip**  
 **InternetDownloadManager**  
+**Adobe**  
 
 我会在需求时继续更新，你也可以把自己检测后的Active发到issue中  
